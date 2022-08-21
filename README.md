@@ -37,3 +37,12 @@ Since all features are anonymous, we will focus our analysis on non-anonymized f
 
    1. How different is the amount of money used in different transaction classes?
    2. Do fraudulent transactions occur more often during a certain frames?
+   
+   
+# METHOD
+We first fit the following models to the skewed data and compare them -
+   1. Random Forest
+   2. Artifical Neural Networks
+   3. XGBoost
+   4. CatBoost
+   5. LightGBM
